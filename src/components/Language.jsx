@@ -15,8 +15,8 @@ const Language = ({ name, options, img }) => {
     >
       {showImage && (
         <Container>
-          <Image src={img} width="70%"></Image>
-          <h3 className="display-6 lang-logo">{name}</h3>
+          <Image className="lang-logo" src={img} width="70%"></Image>
+          <h3 className="display-6 ">{name}</h3>
         </Container>
       )}
       {!showImage && (

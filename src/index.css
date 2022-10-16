@@ -9,3 +9,14 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   height: 100vh;
 }
+
+.lang-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 0px;
+}
+
+.lang-logo {
+  transition: transform 0.2s;
+}
+.lang-card:hover .lang-logo {
+  transform: scale(1.3);
+}
