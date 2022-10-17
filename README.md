@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Click me..!](https://strong-fudge-6e3d70.netlify.app)
+[Click me..!](https://card-languages-react.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
